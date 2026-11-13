@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "id": "logic13-graphite48",
+  "name": "Logic Pro 13-inspired Graphite 48",
+  "version": "1.0.0",
+  "tested": {
+    "platform": "Windows",
+    "cubase_major": 14,
+    "preferences_folder": "Cubase 14_64"
+  },
+  "description": "Community-designed palette inspired by Logic Pro 13. Not official Apple colors; no Liquid Glass or plug-in skin replacement.",
+  "surface": {
+    "1000": {
+      "color": "28282A",
+      "label": "界面基色"
+    },
+    "1100": {
+      "color": "589DE8",
+      "label": "焦点蓝"
+    },
+    "4000": {
+      "color": "141416",
+      "label": "编曲背景"
+    },
+    "4001": {
+      "color": "303034",
+      "label": "编曲网格"
+    },
+    "4002": {
+      "color": "221D30",
+      "label": "编曲循环区"
+    },
+    "4100": {
+      "color": "19191C",
+      "label": "编辑器背景"
+    },
+    "4101": {
+      "color": "343439",
+      "label": "编辑器网格"
+    },
+    "4102": {
+      "color": "272135",
+      "label": "编辑器循环区"
+    },
+    "4200": {
+      "color": "242427",
+      "label": "标尺背景"
+    },
+    "4202": {
+      "color": "9470D8",
+      "label": "活动循环"
+    },
+    "4203": {
+      "color": "45414E",
+      "label": "非活动循环"
+    },
+    "4204": {
+      "color": "C47C55",
+      "label": "反向循环"
+    },
+    "4205": {
+      "color": "559FD1",
+      "label": "独立轨道循环"
+    }
+  },
+  "track_colors": [
+    {
+      "name": "01 Logic Blue",
+      "color": "3796E8"
+    },
+    {
+      "name": "02 Orchid",
+      "color": "A259E3"
+    },
+    {
+      "name": "03 Lagoon",
+      "color": "20BBA7"
+    },
+    {
+      "name": "04 Magenta",
+      "color": "D544C0"
+    },
+    {
+      "name": "05 Sky Cyan",
+      "color": "2BAED4"
+    },
+    {
+      "name": "06 Amber",
+      "color": "DDA23B"
+    },
+    {
+      "name": "07 Iris",
+      "color": "7657DE"
+    },
+    {
+      "name": "08 Jade",
+      "color": "3CB975"
+    },
+    {
+      "name": "09 Coral",
+      "color": "E16B70"
+    },
+    {
+      "name": "10 Azure",
+      "color": "487BDD"
+    },
+    {
+      "name": "11 Plum",
+      "color": "B955D4"
+    },
+    {
+      "name": "12 Mint",
+      "color": "50BFA8"
+    },
+    {
+      "name": "13 Peach",
+      "color": "DE8A4F"
+    },
+    {
+      "name": "14 Ice Blue",
+      "color": "5CA8DA"
+    },
+    {
+      "name": "15 Rose",
+      "color": "D95896"
+    },
+    {
+      "name": "16 Sage",
+      "color": "91B64F"
+    },
+    {
+      "name": "17 Logic Blue Soft",
+      "color": "67ABEF"
+    },
+    {
+      "name": "18 Orchid Soft",
+      "color": "AF88EC"
+    },
+    {
+      "name": "19 Lagoon Soft",
+      "color": "51C8B5"
+    },
+    {
+      "name": "20 Magenta Soft",
+      "color": "E07FB9"
+    },
+    {
+      "name": "21 Sky Cyan Soft",
+      "color": "62BFDA"
+    },
+    {
+      "name": "22 Amber Soft",
+      "color": "E5B66B"
+    },
+    {
+      "name": "23 Iris Soft",
+      "color": "918BED"
+    },
+    {
+      "name": "24 Jade Soft",
+      "color": "7AC99A"
+    },
+    {
+      "name": "25 Coral Soft",
+      "color": "E9958C"
+    },
+    {
+      "name": "26 Azure Soft",
+      "color": "779DE5"
+    },
+    {
+      "name": "27 Plum Soft",
+      "color": "C292DF"
+    },
+    {
+      "name": "28 Mint Soft",
+      "color": "8BD0BC"
+    },
+    {
+      "name": "29 Peach Soft",
+      "color": "E7A579"
+    },
+    {
+      "name": "30 Ice Blue Soft",
+      "color": "8ABDDC"
+    },
+    {
+      "name": "31 Rose Soft",
+      "color": "E293B0"
+    },
+    {
+      "name": "32 Sage Soft",
+      "color": "BACC89"
+    },
+    {
+      "name": "33 Logic Blue Deep",
+      "color": "347CC7"
+    },
+    {
+      "name": "34 Orchid Deep",
+      "color": "8153C8"
+    },
+    {
+      "name": "35 Lagoon Deep",
+      "color": "209C8D"
+    },
+    {
+      "name": "36 Magenta Deep",
+      "color": "B84589"
+    },
+    {
+      "name": "37 Sky Cyan Deep",
+      "color": "268FAB"
+    },
+    {
+      "name": "38 Amber Deep",
+      "color": "BD8437"
+    },
+    {
+      "name": "39 Iris Deep",
+      "color": "5B56C6"
+    },
+    {
+      "name": "40 Jade Deep",
+      "color": "3F9866"
+    },
+    {
+      "name": "41 Coral Deep",
+      "color": "BD5E58"
+    },
+    {
+      "name": "42 Azure Deep",
+      "color": "426BB9"
+    },
+    {
+      "name": "43 Plum Deep",
+      "color": "925BB4"
+    },
+    {
+      "name": "44 Mint Deep",
+      "color": "4B9E91"
+    },
+    {
+      "name": "45 Peach Deep",
+      "color": "B67046"
+    },
+    {
+      "name": "46 Ice Blue Deep",
+      "color": "528BAE"
+    },
+    {
+      "name": "47 Rose Deep",
+      "color": "B5577D"
+    },
+    {
+      "name": "48 Sage Deep",
+      "color": "829A4B"
+    }
+  ],
+  "group_colors": {
+    "FaderColorPreferences": {
+      "190785521": "D5D9E1",
+      "246685415": "B8CDBB",
+      "310167098": "A9ABB4",
+      "661060723": "C0CDD5",
+      "1117904529": "C2B4D4",
+      "1871472453": "B5BCD9",
+      "2118154148": "D5D9E1",
+      "2127668886": "C9D4E1",
+      "-1384335297": "AABDD2",
+      "-742379088": "B2C8BE",
+      "-848448251": "A9ABB4"
+    },
+    "StripColorPreferences": {
+      "1800513344": "C79064",
+      "-1001308543": "5EAA83",
+      "-1919639049": "5C9FD8",
+      "-422114151": "C3A15C",
+      "-61507326": "CC747C",
+      "-76563883": "9586CD"
+    },
+    "RackColorPreferences": {
+      "865100582": "65AE8B",
+      "1151501040": "729BC0",
+      "1333518642": "4B86B8",
+      "1348840619": "3D505E",
+      "1395982019": "729BC0",
+      "1696503437": "8795A6",
+      "1800449508": "AEB6C4",
+      "1800817495": "6A93BA",
+      "-1003174343": "8676AC",
+      "-1249211932": "6BA899",
+      "-1368820707": "6885B6",
+      "-1919641041": "5C9FD8",
+      "-2039973181": "535861",
+      "-218744929": "8795A6",
+      "-442176707": "729BC0",
+      "-44352031": "5FA7AA",
+      "-452723371": "857CA4",
+      "-464274729": "8795A6",
+      "-48580039": "56A494",
+      "-514111175": "6D86AB",
+      "-927545214": "425B5C"
+    }
+  },
+  "track_type_colors": {
+    "1213675769": {
+      "label": "Group",
+      "color": "7657DE"
+    },
+    "1800449508": {
+      "label": "VCA",
+      "color": "AEB6C4"
+    },
+    "-1999531795": {
+      "label": "FX",
+      "color": "A259E3"
+    },
+    "-1875241573": {
+      "label": "Instrument",
+      "color": "3CB975"
+    },
+    "-994820753": {
+      "label": "Sampler",
+      "color": "D544C0"
+    },
+    "-439492784": {
+      "label": "MIDI",
+      "color": "20BBA7"
+    },
+    "-420974399": {
+      "label": "Drum",
+      "color": "DDA23B"
+    },
+    "-260498236": {
+      "label": "Other",
+      "color": "8E95A5"
+    },
+    "-38323736": {
+      "label": "Audio",
+      "color": "3796E8"
+    }
+  },
+  "scalar_groups": {
+    "PMidiPartImage": {
+      "Controller Brightness": 40,
+      "Note Brightness": 60
+    },
+    "PAudioImage": {
+      "Wave Brightness": 65,
+      "Wave Outline Intensity": 20
+    },
+    "Event Image": {
+      "Event Opacity": 235,
+      "Highlight Borders of Selected Events": 1
+    },
+    "ColorizeTracksAndChannels2": {
+      "Colorize Alpha": 42,
+      "Selected Channel Alpha": 88,
+      "Enabled TrackControls": 1,
+      "Colorize Folders": 1,
+      "Enabled Channels": 1,
+      "SelectedChannelHasColor": 1
+    },
+    "Track": {
+      "Auto Color Mode": 2
+    }
+  },
+  "cursor_colors": {
+    "UCrossHairCursorVer2": "D6DBE5",
+    "ZeroLengthRangeCursor": "EFEFF4",
+    "Transport Cursor Def": "E6E8EE"
+  },
+  "meter": {
+    "factory_to_theme": {
+      "FF19D7FE": "FF329B64",
+      "FF32FE98": "FF6BCD76",
+      "FFFEC419": "FFE9B44C",
+      "FFFE2A00": "FFE85B64",
+      "FFFEFE00": "FFE9C85B",
+      "FF329900": "FF368D59",
+      "FF54FE00": "FF73C969",
+      "FFC6241B": "FFE85B64",
+      "FF287ACC": "FF6BCD76",
+      "FF1E5B99": "FF329B64"
+    },
+    "ppm_modes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      2000,
+      2001,
+      2002,
+      2003
+    ],
+    "preserve_thresholds": true
+  },
+  "editor_palettes": {
+    "pitchColors": [
+      "E16B70",
+      "DE8A4F",
+      "DDA23B",
+      "91B64F",
+      "3CB975",
+      "20BBA7",
+      "2BAED4",
+      "3796E8",
+      "487BDD",
+      "7657DE",
+      "A259E3",
+      "D544C0"
+    ],
+    "channelColors": [
+      "3796E8",
+      "A259E3",
+      "20BBA7",
+      "D544C0",
+      "2BAED4",
+      "DDA23B",
+      "7657DE",
+      "3CB975",
+      "E16B70",
+      "487BDD",
+      "B955D4",
+      "50BFA8",
+      "DE8A4F",
+      "5CA8DA",
+      "D95896",
+      "91B64F"
+    ],
+    "velocityColors": [
+      "3796E8",
+      "E16B70"
+    ],
+    "voiceColors": [
+      "3796E8",
+      "A259E3",
+      "20BBA7",
+      "D544C0",
+      "2BAED4",
+      "DDA23B",
+      "7657DE",
+      "3CB975"
+    ],
+    "chordColors": [
+      "E16B70",
+      "3796E8",
+      "DDA23B",
+      "3CB975"
+    ],
+    "gridMatchColors": [
+      "E16B70",
+      "E9958C",
+      "D544C0",
+      "E07FB9",
+      "91B64F",
+      "DE8A4F",
+      "E7A579",
+      "DDA23B",
+      "A259E3",
+      "3796E8",
+      "7AC99A",
+      "3CB975",
+      "ECECF0",
+      "DADAE2",
+      "B9BDC8",
+      "747B88"
+    ]
+  },
+  "auxiliary_palettes": {
+    "Note Expression Colors": [
+      "3796E8",
+      "A259E3",
+      "20BBA7",
+      "D544C0",
+      "2BAED4",
+      "DDA23B",
+      "7657DE",
+      "3CB975",
+      "E16B70",
+      "487BDD",
+      "B955D4",
+      "50BFA8",
+      "DE8A4F",
+      "5CA8DA",
+      "D95896",
+      "91B64F"
+    ],
+    "Score Colors": [
+      "347CC7",
+      "8153C8",
+      "209C8D",
+      "B84589",
+      "268FAB",
+      "BD8437",
+      "5B56C6",
+      "3F9866",
+      "BD5E58",
+      "426BB9",
+      "925BB4",
+      "4B9E91",
+      "B67046",
+      "528BAE",
+      "B5577D",
+      "829A4B"
+    ],
+    "SoundSlot Colors": [
+      "3796E8",
+      "A259E3",
+      "20BBA7",
+      "D544C0",
+      "2BAED4",
+      "DDA23B",
+      "7657DE",
+      "3CB975",
+      "E16B70",
+      "487BDD",
+      "B955D4",
+      "50BFA8",
+      "DE8A4F",
+      "5CA8DA",
+      "D95896",
+      "91B64F"
+    ],
+    "Symbol Colors": [
+      "347CC7",
+      "8153C8",
+      "209C8D",
+      "B84589",
+      "268FAB",
+      "BD8437",
+      "5B56C6",
+      "3F9866",
+      "BD5E58",
+      "426BB9",
+      "925BB4",
+      "4B9E91",
+      "B67046",
+      "528BAE",
+      "B5577D",
+      "829A4B"
+    ]
+  }
+}
